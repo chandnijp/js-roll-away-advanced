@@ -12,3 +12,7 @@ ADDITIONAL GAME RULES:
 1. A player looses his ENTIRE score when he rolls two 6 in a row. After that, its the next player's turn (in code)
 2. Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100.
 3. Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1.
+
+![image1](https://github.com/chandnijp/js-roll-away-advanced/blob/master/snapshot1.JPG)
+
+![image1](https://github.com/chandnijp/js-roll-away-advanced/blob/master/snapshot1(1).JPG)
