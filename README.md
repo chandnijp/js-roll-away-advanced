@@ -13,6 +13,8 @@ ADDITIONAL GAME RULES:
 2. Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100.
 3. Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1.
 
-![image1](https://github.com/chandnijp/js-roll-away-advanced/blob/master/snapshot1.JPG)
+![image1](https://github.com/chandnijp/js-roll-away-advanced/blob/master/images/snapshot1.JPG)
 
-![image1](https://github.com/chandnijp/js-roll-away-advanced/blob/master/snapshot1(1).JPG)
+![image2](https://github.com/chandnijp/js-roll-away-advanced/blob/master/images/snapshot2.JPG)
+
+![image3](https://github.com/chandnijp/js-roll-away-advanced/blob/master/images/snapshot3.JPG)
