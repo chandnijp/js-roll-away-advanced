@@ -1,17 +1,18 @@
 # js-roll-away-advanced
 
-INITIAL GAME RULES:
-- The game has 2 players, playing in rounds
-- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
-- BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn
-- The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
-- The first player to reach 100 points on GLOBAL score wins the game
+BASIC GAME RULES:
+1. 2 player game with 1 dice.
+2. Each player rolls the dice as many times as they wish and then clicks 'hold' to save their score which gets added to their total score.
+3. If the player rolls a 1, their total score goes back to 0.
+4. The first player to reach a score of 100 wins the game.
 
-ADDITIONAL GAME RULES:
+ADVANCED GAME RULES:
 
-1. A player looses his ENTIRE score when he rolls two 6 in a row. After that, its the next player's turn (in code)
-2. Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 100.
-3. Add another dice to the game, so that there are two dices now. The player looses his current score when one of them is a 1.
+1. 2 player game with 2 dice.
+2. A player looses his ENTIRE score when he rolls two 6's in a row. After that, its the next player's turn (in code - not app).
+3. Each player rolls the dice as many times as they wish and then clicks 'hold' to save their score which gets added to their total score.
+4. If the player rolls a 1, their total score goes back to 0.
+5. By default, the first player to get a total score of 100 wins the game however a new target score can be added in the input field.
 
 ![image1](https://github.com/chandnijp/js-roll-away-advanced/blob/master/images/snapshot1.JPG)
 
